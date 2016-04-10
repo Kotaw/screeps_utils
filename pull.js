@@ -1,4 +1,4 @@
-var _ = require("./underscore-min")
+var _ = require("underscore")
 var https = require("https");
 var fs = require('fs');
 var rl = require("readline");
