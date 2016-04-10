@@ -11,3 +11,13 @@ It will ask you for your code when ran.
 
 Ugly but does the job, feel free to improve
 
+###Usage
+
+Runs with nodejs
+
+needs :
+  - readline
+  - underscore
+  - fs
+  - https
+
