@@ -13,11 +13,14 @@ Ugly but does the job, feel free to improve
 
 ###Usage
 
-Runs with nodejs
+Install with `npm install`
 
-needs :
+Runs with `node pull.js`
+
+needs (installed via npm) :
   - readline
   - underscore
   - fs
   - https
+  - read
 
